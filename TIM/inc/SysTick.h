@@ -1,0 +1,3 @@
+
+
+#define SYSCLOCK 72000000u
